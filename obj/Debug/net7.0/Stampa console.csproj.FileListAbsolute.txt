@@ -1,0 +1,15 @@
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/bin/Debug/net7.0/Stampa console
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/bin/Debug/net7.0/Stampa console.deps.json
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/bin/Debug/net7.0/Stampa console.runtimeconfig.json
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/bin/Debug/net7.0/Stampa console.dll
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/bin/Debug/net7.0/Stampa console.pdb
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.csproj.AssemblyReference.cache
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.AssemblyInfoInputs.cache
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.AssemblyInfo.cs
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.csproj.CoreCompileInputs.cache
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.dll
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/refint/Stampa console.dll
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.pdb
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/Stampa console.genruntimeconfig.cache
+/Users/walterzitano/Projects/Esercizi Day 3/Stampa console/obj/Debug/net7.0/ref/Stampa console.dll
